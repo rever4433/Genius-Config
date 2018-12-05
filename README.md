@@ -1,7 +1,7 @@
 # Genius-Config
 > Genius-Config - 分享常用的配置 :wrench:
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/rever4433/Genius-Config) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/rever4433/Genius-Config/blob/master/LICENSE)                                                                                  
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/rever4433/Genius-Config)                                                                   
 
 ## 记录各种工具常用的配置
 
