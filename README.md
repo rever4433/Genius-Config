@@ -12,7 +12,7 @@
 
 ### :wrench:开发工具
 
-- [IDEA](IDEA/settings.json)
+- [IDEA](IDEA/settings.jar)
 
 ### :pencil:文本编辑
 
